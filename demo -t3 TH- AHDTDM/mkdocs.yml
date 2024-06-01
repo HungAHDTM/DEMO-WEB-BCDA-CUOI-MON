@@ -1,0 +1,5 @@
+site_name:lapdemo
+nav:
+-Trang_Chu: 'index.md'
+-'Khac':
+--'Phan Men': 'new/Phan_men.md'
